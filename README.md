@@ -1,3 +1,6 @@
+Basically, these codes runs around a particular sheet, if you want to use it, alter the sheets name as per the requierment
+
+
 # gsheet-automation
 This project is used to send automatic emails with the data from a Google Sheet when a specific column in the corresponding sheet is updated
 Detailed Expalnation
